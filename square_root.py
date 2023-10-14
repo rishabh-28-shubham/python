@@ -12,4 +12,4 @@ num = float(input("Enter a number to find its square root: "))
 result = newton_sqrt(num)
 
 # Display the result
-print(f"The square root of {num} is approximately {result:.6f}")
+print(f"The square root of {num} is approximately {result:.6f}") .
